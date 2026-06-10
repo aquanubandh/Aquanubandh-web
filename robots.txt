@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /analytics/
+
+Sitemap: https://aquanubandh.com/sitemap.xml
